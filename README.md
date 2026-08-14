@@ -1,4 +1,4 @@
-# LazyWater
+# LazyWater🌱💧
 
 LazyWater 是一个基于 STM32F031 的低成本电池供电自动浇水控制器。
 
