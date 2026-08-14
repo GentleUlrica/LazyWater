@@ -117,6 +117,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LXASQFYS
 
+[Document5]
+DocumentPath=JLC_output.pcbdoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=369FBD19-2038-4016-BE8D-7D7D06308029
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
