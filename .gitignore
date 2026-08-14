@@ -1,0 +1,44 @@
+# =========================
+# Altium Designer
+# =========================
+History/
+__Previews/
+Project Logs for */
+Project Outputs for */
+*.PrjPcbStructure
+*.PrjPcbVariants
+*.PcbDoc.htm
+*.SchDocPreview
+*.PcbDocPreview
+*.REP
+*.LOG
+*.LCK
+
+# Altium backup/temp
+*.~*
+~$*
+*.bak
+
+# =========================
+# STM32 / CubeIDE
+# =========================
+Debug/
+Release/
+build/
+*.o
+*.d
+*.elf
+*.map
+*.list
+*.su
+
+# IDE metadata
+.settings/
+.metadata/
+
+# =========================
+# General
+# =========================
+Thumbs.db
+Desktop.ini
+.DS_Store
